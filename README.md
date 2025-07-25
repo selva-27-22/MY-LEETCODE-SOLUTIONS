@@ -1,1 +1,1 @@
-# MY-LEETCODE-SOLUTIONS
+This repository consists of my own  solutions for leetcode problems.
