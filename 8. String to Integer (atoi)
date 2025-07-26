@@ -1,0 +1,24 @@
+class Solution {
+    public int myAtoi(String s) {
+      int i=0;
+      int sign=1;
+      int res=0;
+      int n=s.length();
+    //STEP 1:TRAVERSING MY STRING UNTIL THE LEADING SPACE WAS REMOVED 
+      while(i<n&&(s.charAt(i)==' '))i++;
+    // STEP 2 :FINDING THE SIGN IF '-' CONTAINS THEN (IF) WILL CHANGE THE  INT SIGN AS -1 AND STORE IT FOR  NEGATIVE
+        if(i<n&&(s.charAt(i)=='+'||s.charAt(i)=='-')){
+                    if(s.charAt(i)=='-'){
+                        sign=-1;
+                    } i++;
+        }
+      //STEP 3:NOW COMING TO GET THE INTEGERS FROM THE STRING
+      while(i<n&&s.charAt(i)>='0'&&s.charAt(i)<='9'){
+        int digit=s.charAt(i)-'0';
+        if(res>Integer.MAX_VALUE/10||(res==Integer.MAX_VALUE/10&&digit>7)){
+            return (sign==-1)?Integer.MIN_VALUE:Integer.MAX_VALUE;
+        }
+        res=res*10+digit;i++;
+       }return res*sign;
+    }
+}
