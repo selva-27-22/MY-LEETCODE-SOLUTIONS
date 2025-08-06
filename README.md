@@ -10,6 +10,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [0415-add-strings](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0415-add-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [1791-richest-customer-wealth](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1791-richest-customer-wealth) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Matrix
 |  |
 | ------- |
@@ -64,4 +66,8 @@ This repository consists of my own  solutions for leetcode problems.
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Hash Table
+|  |
+| ------- |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 <!---LeetCode Topics End-->
