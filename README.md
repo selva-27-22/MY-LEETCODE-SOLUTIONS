@@ -82,4 +82,8 @@ This repository consists of my own  solutions for leetcode problems.
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2714-left-and-right-sum-differences) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
