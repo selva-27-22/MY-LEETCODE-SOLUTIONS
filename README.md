@@ -19,6 +19,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [0412-fizz-buzz](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
+| [3533-snake-in-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3533-snake-in-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -29,6 +30,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [0566-reshape-the-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0682-baseball-game) |
+| [3533-snake-in-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3533-snake-in-matrix) |
 ## Number Theory
 |  |
 | ------- |
@@ -46,6 +48,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [2722-prime-in-diagonal](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2722-prime-in-diagonal) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3533-snake-in-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3533-snake-in-matrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Matrix
 |  |
