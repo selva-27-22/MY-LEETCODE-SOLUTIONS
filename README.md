@@ -49,6 +49,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [2714-left-and-right-sum-differences](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2722-prime-in-diagonal) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3533-snake-in-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3533-snake-in-matrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -102,8 +103,17 @@ This repository consists of my own  solutions for leetcode problems.
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0908-middle-of-the-linked-list) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2163-kth-distinct-string-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Sorting
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
