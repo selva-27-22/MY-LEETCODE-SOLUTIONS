@@ -5,6 +5,7 @@ This repository consists of my own  solutions for leetcode problems.
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0415-add-strings) |
@@ -70,6 +71,7 @@ This repository consists of my own  solutions for leetcode problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -116,4 +118,8 @@ This repository consists of my own  solutions for leetcode problems.
 |  |
 | ------- |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
