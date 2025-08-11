@@ -20,6 +20,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [0076-minimum-window-substring](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0076-minimum-window-substring) |
 | [0412-fizz-buzz](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3533-snake-in-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3533-snake-in-matrix) |
@@ -88,6 +89,7 @@ This repository consists of my own  solutions for leetcode problems.
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -130,4 +132,5 @@ This repository consists of my own  solutions for leetcode problems.
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
