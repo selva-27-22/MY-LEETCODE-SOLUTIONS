@@ -16,6 +16,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [2998-count-symmetric-integers](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2998-count-symmetric-integers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3625-stone-removal-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3625-stone-removal-game) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [0657-robot-return-to-origin](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0682-baseball-game) |
 | [3533-snake-in-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3533-snake-in-matrix) |
+| [3625-stone-removal-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3625-stone-removal-game) |
 ## Number Theory
 |  |
 | ------- |
