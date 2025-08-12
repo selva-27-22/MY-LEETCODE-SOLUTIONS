@@ -25,6 +25,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [0415-add-strings](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
+| [1078-remove-outermost-parentheses](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1078-remove-outermost-parentheses) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3533-snake-in-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3533-snake-in-matrix) |
 ## Simulation
@@ -72,6 +73,7 @@ This repository consists of my own  solutions for leetcode problems.
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0682-baseball-game) |
+| [1078-remove-outermost-parentheses](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1078-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
