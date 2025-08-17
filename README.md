@@ -55,6 +55,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [0909-stone-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0909-stone-game) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1791-richest-customer-wealth](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1791-richest-customer-wealth) |
+| [1848-sum-of-unique-elements](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1848-sum-of-unique-elements) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -106,6 +107,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [0424-longest-repeating-character-replacement](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1848-sum-of-unique-elements](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1848-sum-of-unique-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2442-number-of-arithmetic-triplets) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -134,6 +136,7 @@ This repository consists of my own  solutions for leetcode problems.
 ## Counting
 |  |
 | ------- |
+| [1848-sum-of-unique-elements](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1848-sum-of-unique-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Binary Search
 |  |
