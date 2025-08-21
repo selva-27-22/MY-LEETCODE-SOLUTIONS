@@ -12,6 +12,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [0909-stone-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0909-stone-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2722-prime-in-diagonal](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2722-prime-in-diagonal) |
 | [2998-count-symmetric-integers](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2998-count-symmetric-integers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -39,6 +40,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [0566-reshape-the-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0682-baseball-game) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3533-snake-in-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3533-snake-in-matrix) |
 | [3625-stone-removal-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3625-stone-removal-game) |
 ## Number Theory
@@ -60,6 +62,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [1993-sum-of-all-subset-xor-totals](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
 | [2714-left-and-right-sum-differences](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2714-left-and-right-sum-differences) |
@@ -96,6 +99,7 @@ This repository consists of my own  solutions for leetcode problems.
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Enumeration
 |  |
 | ------- |
