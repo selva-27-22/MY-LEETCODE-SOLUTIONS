@@ -13,6 +13,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2722-prime-in-diagonal](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2722-prime-in-diagonal) |
 | [2998-count-symmetric-integers](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2998-count-symmetric-integers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
