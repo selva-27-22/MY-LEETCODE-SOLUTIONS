@@ -26,6 +26,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [0412-fizz-buzz](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
+| [0482-license-key-formatting](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0482-license-key-formatting) |
 | [0657-robot-return-to-origin](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [1078-remove-outermost-parentheses](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1078-remove-outermost-parentheses) |
 | [1283-reformat-date](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1283-reformat-date) |
