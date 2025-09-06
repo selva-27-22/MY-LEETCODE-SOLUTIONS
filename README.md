@@ -23,6 +23,7 @@ This repository consists of my own  solutions for leetcode problems.
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0076-minimum-window-substring) |
+| [0179-largest-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0179-largest-number) |
 | [0412-fizz-buzz](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
@@ -56,6 +57,7 @@ This repository consists of my own  solutions for leetcode problems.
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0179-largest-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0495-teemo-attacking](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0566-reshape-the-matrix) |
@@ -163,6 +165,7 @@ This repository consists of my own  solutions for leetcode problems.
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0179-largest-number) |
 | [1217-relative-sort-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1217-relative-sort-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -188,6 +191,7 @@ This repository consists of my own  solutions for leetcode problems.
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0179-largest-number) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2475-largest-palindromic-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2475-largest-palindromic-number) |
