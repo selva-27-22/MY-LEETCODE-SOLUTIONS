@@ -60,6 +60,7 @@ This repository consists of my own  solutions for leetcode problems.
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0179-largest-number) |
+| [0274-h-index](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0274-h-index) |
 | [0318-maximum-product-of-word-lengths](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0495-teemo-attacking](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0495-teemo-attacking) |
@@ -175,6 +176,7 @@ This repository consists of my own  solutions for leetcode problems.
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0179-largest-number) |
+| [0274-h-index](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0274-h-index) |
 | [0692-top-k-frequent-words](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0692-top-k-frequent-words) |
 | [1217-relative-sort-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1217-relative-sort-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -208,6 +210,7 @@ This repository consists of my own  solutions for leetcode problems.
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0274-h-index) |
 | [1217-relative-sort-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Trie
