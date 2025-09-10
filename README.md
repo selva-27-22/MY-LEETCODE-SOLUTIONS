@@ -35,6 +35,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [1078-remove-outermost-parentheses](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1078-remove-outermost-parentheses) |
 | [1283-reformat-date](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1283-reformat-date) |
 | [1812-reformat-phone-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1812-reformat-phone-number) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2475-largest-palindromic-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2475-largest-palindromic-number) |
 | [2502-sort-the-people](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
@@ -50,6 +51,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [0657-robot-return-to-origin](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0682-baseball-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3533-snake-in-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3533-snake-in-matrix) |
 | [3625-stone-removal-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3625-stone-removal-game) |
@@ -103,6 +105,7 @@ This repository consists of my own  solutions for leetcode problems.
 | ------- |
 | [0682-baseball-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1078-remove-outermost-parentheses) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Backtracking
 |  |
 | ------- |
