@@ -11,6 +11,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [0415-add-strings](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0415-add-strings) |
 | [0909-stone-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0909-stone-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -48,6 +49,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [0566-reshape-the-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0682-baseball-game) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3533-snake-in-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3533-snake-in-matrix) |
 | [3625-stone-removal-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3625-stone-removal-game) |
@@ -73,6 +75,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [1741-sort-array-by-increasing-frequency](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1791-richest-customer-wealth](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1848-sum-of-unique-elements) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -187,6 +190,7 @@ This repository consists of my own  solutions for leetcode problems.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -225,4 +229,8 @@ This repository consists of my own  solutions for leetcode problems.
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0692-top-k-frequent-words) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
