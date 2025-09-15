@@ -154,6 +154,7 @@ This repository consists of my own  solutions for leetcode problems.
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0595-big-countries) |
 ## Linked List
