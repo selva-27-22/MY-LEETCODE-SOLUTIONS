@@ -33,6 +33,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [0657-robot-return-to-origin](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0692-top-k-frequent-words) |
 | [1078-remove-outermost-parentheses](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1078-remove-outermost-parentheses) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1283-reformat-date](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1283-reformat-date) |
 | [1812-reformat-phone-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1812-reformat-phone-number) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -136,6 +137,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [0442-find-all-duplicates-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0692-top-k-frequent-words) |
 | [1217-relative-sort-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1217-relative-sort-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1848-sum-of-unique-elements) |
