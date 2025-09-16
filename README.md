@@ -65,6 +65,7 @@ This repository consists of my own  solutions for leetcode problems.
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0179-largest-number) |
+| [0240-search-a-2d-matrix-ii](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0274-h-index) |
 | [0318-maximum-product-of-word-lengths](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -99,6 +100,7 @@ This repository consists of my own  solutions for leetcode problems.
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0566-reshape-the-matrix) |
 | [1791-richest-customer-wealth](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1791-richest-customer-wealth) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -183,6 +185,7 @@ This repository consists of my own  solutions for leetcode problems.
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -243,4 +246,8 @@ This repository consists of my own  solutions for leetcode problems.
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
