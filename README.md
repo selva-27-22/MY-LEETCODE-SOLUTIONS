@@ -85,6 +85,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [1993-sum-of-all-subset-xor-totals](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2442-number-of-arithmetic-triplets) |
@@ -190,6 +191,7 @@ This repository consists of my own  solutions for leetcode problems.
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -200,6 +202,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [1217-relative-sort-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1217-relative-sort-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
