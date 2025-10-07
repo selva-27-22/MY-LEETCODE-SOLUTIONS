@@ -24,6 +24,7 @@ This repository consists of my own  solutions for leetcode problems.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0179-largest-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0318-maximum-product-of-word-lengths) |
@@ -112,6 +113,7 @@ This repository consists of my own  solutions for leetcode problems.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2021-remove-all-occurrences-of-a-substring) |
