@@ -56,6 +56,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [1951-find-the-winner-of-the-circular-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3533-snake-in-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3533-snake-in-matrix) |
 | [3625-stone-removal-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3625-stone-removal-game) |
 ## Number Theory
@@ -89,6 +90,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [2210-find-target-indices-after-sorting-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-number-of-arithmetic-triplets](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -156,6 +158,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [1741-sort-array-by-increasing-frequency](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1848-sum-of-unique-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-number-of-arithmetic-triplets](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2442-number-of-arithmetic-triplets) |
 | [2475-largest-palindromic-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2475-largest-palindromic-number) |
 | [2502-sort-the-people](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
@@ -208,6 +211,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [1741-sort-array-by-increasing-frequency](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2836-neither-minimum-nor-maximum](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2836-neither-minimum-nor-maximum) |
@@ -236,6 +240,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [0179-largest-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0179-largest-number) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2475-largest-palindromic-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2475-largest-palindromic-number) |
 ## Counting Sort
 |  |
@@ -251,6 +256,7 @@ This repository consists of my own  solutions for leetcode problems.
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0692-top-k-frequent-words) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
 |  |
 | ------- |
