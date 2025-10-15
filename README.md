@@ -42,6 +42,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [2163-kth-distinct-string-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2475-largest-palindromic-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2475-largest-palindromic-number) |
 | [2502-sort-the-people](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3533-snake-in-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3533-snake-in-matrix) |
 ## Simulation
 |  |
@@ -93,6 +94,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-number-of-arithmetic-triplets](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2714-left-and-right-sum-differences](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2722-prime-in-diagonal) |
