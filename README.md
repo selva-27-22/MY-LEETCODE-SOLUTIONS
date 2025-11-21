@@ -106,6 +106,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [2876-number-of-employees-who-met-the-target](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3446-sort-matrix-by-diagonals](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3446-sort-matrix-by-diagonals) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3533-snake-in-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3533-snake-in-matrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -117,6 +118,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [1791-richest-customer-wealth](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1791-richest-customer-wealth) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2722-prime-in-diagonal](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2722-prime-in-diagonal) |
+| [3446-sort-matrix-by-diagonals](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3446-sort-matrix-by-diagonals) |
 ## Stack
 |  |
 | ------- |
@@ -219,6 +221,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [2631-sort-the-students-by-their-kth-score](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2836-neither-minimum-nor-maximum](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3446-sort-matrix-by-diagonals](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3446-sort-matrix-by-diagonals) |
 ## Recursion
 |  |
 | ------- |
