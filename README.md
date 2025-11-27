@@ -40,6 +40,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [1283-reformat-date](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1283-reformat-date) |
 | [1812-reformat-phone-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1812-reformat-phone-number) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2475-largest-palindromic-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2475-largest-palindromic-number) |
 | [2502-sort-the-people](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
@@ -57,6 +58,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [0682-baseball-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0682-baseball-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3533-snake-in-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3533-snake-in-matrix) |
