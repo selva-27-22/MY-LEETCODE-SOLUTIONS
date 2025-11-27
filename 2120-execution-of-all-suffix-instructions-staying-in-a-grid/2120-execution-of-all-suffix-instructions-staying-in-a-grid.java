@@ -11,10 +11,12 @@ class Solution {
             count=0;;
             for(int j=i;j<len;j++){
                 char ch=chars[j];
-                if(ch=='U')row--;
-                else if(ch=='D')row++;
-                else if(ch=='L')col--;
-                else col++;
+                switch(ch){
+                    case 'U': row--;break;
+                    case 'D': row++;break;
+                    case 'R': col++;break;
+                    case 'L': col--;break;
+                }
                 if(row<0||col<0||row>=n||col>=n)break;
                 count++;
             }
