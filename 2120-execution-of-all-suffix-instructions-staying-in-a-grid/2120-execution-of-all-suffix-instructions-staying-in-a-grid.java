@@ -1,7 +1,7 @@
 class Solution {
     public int[] executeInstructions(int n, int[] pos, String s) {
         int len=s.length();
-        int result[]=new int[len];
+        int result[]=new int[len];char chars[]=s.toCharArray();
         int row=pos[0];
         int col=pos[1];
         int count=0;
@@ -10,7 +10,7 @@ class Solution {
             col=pos[1];
             count=0;;
             for(int j=i;j<len;j++){
-                char ch=s.charAt(j);
+                char ch=chars[j];
                 if(ch=='U')row--;
                 else if(ch=='D')row++;
                 else if(ch=='L')col--;
