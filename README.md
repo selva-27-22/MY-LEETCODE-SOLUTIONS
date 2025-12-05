@@ -19,6 +19,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [2608-count-the-digits-that-divide-a-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2722-prime-in-diagonal](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2722-prime-in-diagonal) |
 | [2998-count-symmetric-integers](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2998-count-symmetric-integers) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3625-stone-removal-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3625-stone-removal-game) |
@@ -108,6 +109,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [2876-number-of-employees-who-met-the-target](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3446-sort-matrix-by-diagonals](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3446-sort-matrix-by-diagonals) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3533-snake-in-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3533-snake-in-matrix) |
@@ -177,6 +179,7 @@ This repository consists of my own  solutions for leetcode problems.
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2714-left-and-right-sum-differences) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Database
 |  |
 | ------- |
