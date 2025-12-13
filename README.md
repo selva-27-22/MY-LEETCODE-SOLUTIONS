@@ -47,6 +47,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [2502-sort-the-people](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3533-snake-in-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3533-snake-in-matrix) |
+| [3606-coupon-code-validator](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3606-coupon-code-validator) |
 ## Simulation
 |  |
 | ------- |
@@ -114,6 +115,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3533-snake-in-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3533-snake-in-matrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-coupon-code-validator](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3606-coupon-code-validator) |
 ## Matrix
 |  |
 | ------- |
@@ -175,6 +177,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-coupon-code-validator](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3606-coupon-code-validator) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -227,6 +230,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [2836-neither-minimum-nor-maximum](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3446-sort-matrix-by-diagonals](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3446-sort-matrix-by-diagonals) |
+| [3606-coupon-code-validator](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3606-coupon-code-validator) |
 ## Recursion
 |  |
 | ------- |
