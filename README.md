@@ -7,6 +7,7 @@ This repository consists of my own  solutions for leetcode problems.
 | ------- |
 | [0231-power-of-two](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
+| [0371-sum-of-two-integers](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0415-add-strings) |
 | [0909-stone-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0909-stone-game) |
@@ -142,6 +143,7 @@ This repository consists of my own  solutions for leetcode problems.
 | ------- |
 | [0231-power-of-two](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0318-maximum-product-of-word-lengths) |
+| [0371-sum-of-two-integers](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0371-sum-of-two-integers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Combinatorics
