@@ -75,6 +75,7 @@ This repository consists of my own  solutions for leetcode problems.
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0031-next-permutation) |
 | [0179-largest-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0179-largest-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0274-h-index) |
@@ -200,6 +201,7 @@ This repository consists of my own  solutions for leetcode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0031-next-permutation) |
 | [0908-middle-of-the-linked-list](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0908-middle-of-the-linked-list) |
 | [2442-number-of-arithmetic-triplets](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2442-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
