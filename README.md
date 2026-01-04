@@ -62,6 +62,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [1951-find-the-winner-of-the-circular-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3533-snake-in-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3533-snake-in-matrix) |
@@ -96,6 +97,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -124,6 +126,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [0240-search-a-2d-matrix-ii](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0566-reshape-the-matrix) |
 | [1791-richest-customer-wealth](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1791-richest-customer-wealth) |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2722-prime-in-diagonal](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2722-prime-in-diagonal) |
 | [3446-sort-matrix-by-diagonals](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3446-sort-matrix-by-diagonals) |
