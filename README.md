@@ -97,6 +97,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [1951-find-the-winner-of-the-circular-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2257-count-unguarded-cells-in-the-grid) |
@@ -176,6 +177,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1848-sum-of-unique-elements) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-number-of-arithmetic-triplets](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2442-number-of-arithmetic-triplets) |
@@ -216,6 +218,7 @@ This repository consists of my own  solutions for leetcode problems.
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0692-top-k-frequent-words) |
 | [1848-sum-of-unique-elements](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1848-sum-of-unique-elements) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2475-largest-palindromic-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2475-largest-palindromic-number) |
 ## Binary Search
