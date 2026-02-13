@@ -12,6 +12,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [0415-add-strings](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0415-add-strings) |
 | [0909-stone-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0909-stone-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -94,6 +95,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1791-richest-customer-wealth](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1791-richest-customer-wealth) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1848-sum-of-unique-elements) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -178,6 +180,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [1264-maximum-number-of-words-you-can-type](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1848-sum-of-unique-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -220,6 +223,7 @@ This repository consists of my own  solutions for leetcode problems.
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0692-top-k-frequent-words) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1848-sum-of-unique-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2163-kth-distinct-string-in-an-array) |
