@@ -50,6 +50,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3533-snake-in-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3533-snake-in-matrix) |
 | [3606-coupon-code-validator](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3713-longest-balanced-substring-i) |
 ## Simulation
 |  |
 | ------- |
@@ -165,6 +166,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [2442-number-of-arithmetic-triplets](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2442-number-of-arithmetic-triplets) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2998-count-symmetric-integers) |
+| [3713-longest-balanced-substring-i](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3713-longest-balanced-substring-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -188,6 +190,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3713-longest-balanced-substring-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -221,6 +224,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2475-largest-palindromic-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2475-largest-palindromic-number) |
+| [3713-longest-balanced-substring-i](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search
 |  |
 | ------- |
