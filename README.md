@@ -11,6 +11,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [0412-fizz-buzz](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0415-add-strings) |
 | [0909-stone-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0909-stone-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1227-airplane-seat-assignment-probability) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -269,6 +270,7 @@ This repository consists of my own  solutions for leetcode problems.
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0909-stone-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1227-airplane-seat-assignment-probability) |
 ## Game Theory
 |  |
 | ------- |
@@ -316,4 +318,12 @@ This repository consists of my own  solutions for leetcode problems.
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
+## Brainteaser
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1227-airplane-seat-assignment-probability) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
