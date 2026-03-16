@@ -80,6 +80,7 @@ This repository consists of my own  solutions for leetcode problems.
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0031-next-permutation) |
 | [0179-largest-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0179-largest-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
@@ -217,6 +218,7 @@ This repository consists of my own  solutions for leetcode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0031-next-permutation) |
 | [0908-middle-of-the-linked-list](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0908-middle-of-the-linked-list) |
@@ -241,6 +243,7 @@ This repository consists of my own  solutions for leetcode problems.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0015-3sum) |
 | [0179-largest-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0274-h-index) |
 | [0692-top-k-frequent-words](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0692-top-k-frequent-words) |
