@@ -50,6 +50,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [2475-largest-palindromic-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2475-largest-palindromic-number) |
 | [2502-sort-the-people](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3533-snake-in-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3533-snake-in-matrix) |
 | [3606-coupon-code-validator](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3713-longest-balanced-substring-i) |
@@ -194,6 +195,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [2502-sort-the-people](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3606-coupon-code-validator) |
@@ -256,6 +258,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [2502-sort-the-people](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2836-neither-minimum-nor-maximum](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2836-neither-minimum-nor-maximum) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3446-sort-matrix-by-diagonals](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3446-sort-matrix-by-diagonals) |
 | [3606-coupon-code-validator](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3606-coupon-code-validator) |
