@@ -130,6 +130,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [3533-snake-in-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3533-snake-in-matrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3606-coupon-code-validator) |
+| [3866-first-unique-even-element](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3866-first-unique-even-element) |
 ## Matrix
 |  |
 | ------- |
@@ -200,6 +201,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3713-longest-balanced-substring-i) |
+| [3866-first-unique-even-element](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3866-first-unique-even-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -236,6 +238,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [2163-kth-distinct-string-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2475-largest-palindromic-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2475-largest-palindromic-number) |
 | [3713-longest-balanced-substring-i](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3713-longest-balanced-substring-i) |
+| [3866-first-unique-even-element](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/3866-first-unique-even-element) |
 ## Binary Search
 |  |
 | ------- |
