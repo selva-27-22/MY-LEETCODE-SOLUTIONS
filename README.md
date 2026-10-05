@@ -157,6 +157,7 @@ This repository consists of my own  solutions for leetcode problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0371-sum-of-two-integers](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0371-sum-of-two-integers) |
@@ -318,6 +319,7 @@ This repository consists of my own  solutions for leetcode problems.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 ## String Matching
 |  |
