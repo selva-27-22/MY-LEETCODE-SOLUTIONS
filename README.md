@@ -83,6 +83,7 @@ This repository consists of my own  solutions for leetcode problems.
 | ------- |
 | [0015-3sum](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0031-next-permutation) |
+| [0073-set-matrix-zeroes](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0179-largest-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0179-largest-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0274-h-index) |
@@ -134,6 +135,7 @@ This repository consists of my own  solutions for leetcode problems.
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0566-reshape-the-matrix) |
 | [0994-rotting-oranges](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
@@ -179,6 +181,7 @@ This repository consists of my own  solutions for leetcode problems.
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0442-find-all-duplicates-in-an-array) |
