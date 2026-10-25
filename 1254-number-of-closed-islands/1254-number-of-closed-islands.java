@@ -68,31 +68,13 @@ class Solution {
         //down
         mark_unclosed(grid,i+1,j,m,n);
     }
-    private static void check(int mat[][],int i,int j,int m,int n){
-        mat[i][j]=1; 
-        //check left
-        if((j-1)>=0){
-            if(mat[i][j-1]==0){
-                check(mat,i,j-1,m,n);
-            }
-        }
-        // check right
-        if((j+1)<n){
-            if(mat[i][j+1]==0){
-                check(mat,i,j+1,m,n);
-            }
-        }
-        //check up
-        if((i-1)>=0){
-            if(mat[i-1][j]==0){
-                check(mat,i-1,j,m,n);
-            }
-        }
-        //check down
-        if(i+1<m){
-            if(mat[i+1][j]==0){
-                check(mat,i+1,j,m,n);
-            }
-        }
+    private static void check(int grid[][],int i,int j,int m,int n){
+        if(i<0||i>=m||j<0||j>=n)return;
+        if(grid[i][j]==1)return;
+        grid[i][j]=1;
+        check(grid,i-1,j,m,n);
+        check(grid,i+1,j,m,n);
+        check(grid,i,j-1,m,n);
+        check(grid,i,j+1,m,n);
     }
 }
