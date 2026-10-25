@@ -97,6 +97,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [0994-rotting-oranges](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1217-relative-sort-array) |
+| [1254-number-of-closed-islands](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1254-number-of-closed-islands) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1791-richest-customer-wealth](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1791-richest-customer-wealth) |
@@ -139,6 +140,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [0240-search-a-2d-matrix-ii](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0566-reshape-the-matrix) |
 | [0994-rotting-oranges](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1254-number-of-closed-islands) |
 | [1791-richest-customer-wealth](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1791-richest-customer-wealth) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -332,6 +334,7 @@ This repository consists of my own  solutions for leetcode problems.
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1254-number-of-closed-islands) |
 ## Brainteaser
 |  |
 | ------- |
@@ -340,4 +343,12 @@ This repository consists of my own  solutions for leetcode problems.
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1227-airplane-seat-assignment-probability) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
