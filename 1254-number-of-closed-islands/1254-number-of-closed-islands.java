@@ -34,13 +34,14 @@ class Solution {
         //     }
         //     System.out.println();
         // }
-        for(int i = 0; i < m; i++){
-        for(int j = 0; j < n; j++){
-            if((i == 0 || i == m-1 || j == 0 || j == n-1)
-                && grid[i][j] == 0){
-            mark_unclosed(grid, i, j, m, n);
+
+        // Optimized because of single loop instead of four loops🥴
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if((i==0||j==0||i==m-1||j==n-1)&&grid[i][j]==0){
+                    mark_unclosed(grid,i,j,m,n);
+                }
             }
-        }
         }
         //Phase 2
         for(int i=0;i<m;i++){
