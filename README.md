@@ -32,6 +32,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [0020-valid-parentheses](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0076-minimum-window-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0179-largest-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0412-fizz-buzz](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
@@ -231,6 +232,7 @@ This repository consists of my own  solutions for leetcode problems.
 | [0015-3sum](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0031-next-permutation) |
+| [0151-reverse-words-in-a-string](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/0908-middle-of-the-linked-list) |
 | [2442-number-of-arithmetic-triplets](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2442-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/selva-27-22/MY-LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
